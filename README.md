@@ -39,6 +39,10 @@
 
 
 ![Vishwas's github stats](https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true)
-<br />
+<br/>
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasracharya) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vishwasracharya.vishwasracharya)
+![twitter-follower](https://img.shields.io/twitter/follow/vishwasracharya?style=social) 
+![img](https://img.shields.io/youtube/channel/subscribers/UCAaleCudmPAqObY22TsRxng?label=YouTube%20Subscribers&style=social) 
+![img](https://img.shields.io/youtube/channel/views/UCAaleCudmPAqObY22TsRxng?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
 
