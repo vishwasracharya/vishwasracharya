@@ -33,9 +33,9 @@
 
 ### My Experiences 🙌
 - [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - The first internship in tech domain.
-- Video Editing - A Hobby developed any turned it into a skill with a 1.5+ years of experience, by working with compaies like [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org) and making vlogs & guids on [YouTube](https://youtube.com/c/VishwasAcharya) having 13.2K+ views.
+- Video Editing - A Hobby developed & turned it into a skill with a 1.5+ years of experience, by working with companies like [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org) and making vlogs & guides on [YouTube](https://youtube.com/c/VishwasAcharya) having 13.2K+ views.
 - Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since Aug 2020 where I share my experience's and learning having 1.6K+ plays from a diverse area of people.
-- [Blogging](https://vishwasacharya.blogspot.com) with the similar concept like podcast, but in a form of written content.
+- [Blogging](https://vishwasacharya.blogspot.com) with the similar concept like podcast, but in the form of written content.
 
 
 ![Vishwas's github stats](https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true)
