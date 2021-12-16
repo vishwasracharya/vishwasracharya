@@ -37,6 +37,11 @@
 - Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since Aug 2020 where I share my experience's and learning having 1.6K+ plays from a diverse area of people.
 - [Blogging](https://vishwasacharya.blogspot.com) with the similar concept like podcast, but in the form of written content.
 
+### Skills <img width="25px" src="https://cdn-icons.flaticon.com/png/512/1903/premium/1903543.png?token=exp=1639654478~hmac=332a01b5c887c5e252277638cf5b3ada" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+### Link: [Resume](https://drive.google.com/file/d/1l4S0TZBToA_fa6uzqWvFHXtKk-wTakDO/view?usp=sharing) ✨
 
 ![Vishwas's github stats](https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true)
 <br/>
