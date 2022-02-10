@@ -27,6 +27,10 @@
   <a href="https://facebook.com/vishwasracharya">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
+<br/>
+<br/>
+
+<img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/Vishwas%20LinkedIn%20Banner%20-%20No%20Photo.png" />
 
 ### About Me 🚀
 🎓 I’m a learner & a hustler, peresently pursuing my Bachelors in Information Technology Engineering. </br>
