@@ -32,7 +32,7 @@
 <img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/Vishwas%20LinkedIn%20Banner%20-%20No%20Photo.png" />
 
 ### About Me 🚀
-<p>🎓 I’m a learner & a hustler 😎, peresently pursuing my <strong>Bachelors in Information Technology Engineering</strong> from Sardar Patel College of Engineering, which is located near Vallabh Vidhyanagar where I live, I moved to this city when I was in 10th class before that I used to live in Khambhat. Also working remotely as a Jr Frontend Developer intern at <a href="https://futureblink.com/">@futureblink</a>,<p/>
+<p>I’m a learner 🎓 & a hustler 😎, peresently pursuing my <strong>Bachelors in Information Technology Engineering</strong> from Sardar Patel College of Engineering, which is located near Vallabh Vidhyanagar where I live, I moved to this city when I was in 10th class before that I used to live in Khambhat. Also working remotely as a Jr Frontend Developer intern at <a href="https://futureblink.com/">@futureblink</a>,<p/>
 <p>I was a kinda introverted guy so to overcome my shyness and as a side hustle I make <a href="https://youtube.com/c/VishwasAcharya">Youtube</a> videos, <a href="https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr?si=ii3DcV4JQT2CxOJWWidZKg&utm_source=copy-link">Podcasts</a> 🎙 and I have a liking towards Photography also, so sharing that through my <a href="https://instagram.com/vishwasracharya">Instagram</a>.<p/>
 <p>And when I feel low 🥱 or in a zone to do nothing then I listen to songs 🎶 and dance on them, just to get myself back on track.<p/>
 
