@@ -49,7 +49,7 @@
 
 ### Link: [Resume](https://drive.google.com/file/d/1fpU4sPn2UpZwTX5IV1iEzuBwDEEIDK1s/view?usp=sharing) ✨
 
-![Vishwas's github stats](https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true)
+![Vishwas's github stats](https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=false&theme=blue-green)
 <br/>
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasracharya) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vishwasracharya.vishwasracharya)
