@@ -51,9 +51,9 @@
 ### Link: [Resume](https://drive.google.com/file/d/1mplIcYwS3x2ZLfvBVvS9RkSaABtV8iwL/view?usp=sharing) ✨
 
 ### Stats 📈
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true&theme=tokyonight" alt="Vishwas's github stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasracharya&hide_border=true&theme=tokyonight" alt="Vishwas's github strak stats" />
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true&theme=tokyonight" alt="Vishwas's github stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasracharya&hide_border=true&theme=tokyonight" alt="Vishwas's github strak stats" />
 </p>
 <br/>
 
