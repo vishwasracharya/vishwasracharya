@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vishwas!](https://vishwasacharya.herokuapp.com) 
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">, I'm [Vishwas!](https://vishwasacharya.herokuapp.com) 
 
   <a href="https://twitter.com/vishwasracharya">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
