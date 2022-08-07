@@ -52,7 +52,7 @@
 
 ### Stats 📈
 <p align="center">
-<!-- <img width="48%" src="https://github-readme-stats.herokuapp.app/api?username=vishwasracharya&show_icons=true&hide_border=true&theme=tokyonight" alt="Vishwas's github stats" /> -->
+<img width="48%" src="https://github-readme-stats.herokuapp.app/api?username=vishwasracharya&show_icons=true&hide_border=true&theme=tokyonight" alt="Vishwas's github stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasracharya&hide_border=true&theme=tokyonight" alt="Vishwas's github strak stats" />
 </p>
 <br/>
