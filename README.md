@@ -43,7 +43,7 @@
 - [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - The first internship in tech domain.
 - Video Editing - A Hobby developed & turned it into a skill with a <strong><em>1.5+ years</em></strong> of experience, by working with companies like [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org) and making vlogs & guides on [YouTube](https://youtube.com/c/VishwasAcharya) having <strong><em>14K+ views</em></strong>.
 - Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since Aug 2020 where I share my experience's and learning having <strong><em>2.1K+ plays</em></strong> from a diverse area of people.
-- [Blogging](https://vishwasacharya.herokuapp.com/blog) with the similar concept like podcast, but in the form of written content. Also I started creating [Tech Blogs](https://vishwasacharya.hashnode.dev/) through Hashnode, which has 1.1K+ Reads.
+- [Blogging](https://vishwasacharya.herokuapp.com/blog) with the similar concept like podcast, but in the form of written content. Also I started creating [Tech Blogs](https://vishwasacharya.hashnode.dev/) through Hashnode, which has <strong><em>1.1K+ Reads</em></strong>.
 
 ### Skills 🛠
 
