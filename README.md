@@ -33,11 +33,13 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=vishwasracharya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ### About Me 🚀
+
 <p>I’m a learner 🎓 & a hustler 😎, completed my <strong>Bachelors in Information Technology Engineering</strong> from <a href="https://spec.edu.in">Sardar Patel College of Engineering</a>, which is located near Vallabh Vidhyanagar where I live, I moved to this city when I was in 10th class before that I used to live in Khambhat. And presently working as a Software Engineer at <a href="https://volansys.com/">@Volansys</a>,</p>
 <p>I was a kinda introverted guy so to overcome my shyness and as a side hustle I make <a href="https://youtube.com/c/VishwasAcharya">Youtube</a> videos, <a href="https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr?si=ii3DcV4JQT2CxOJWWidZKg&utm_source=copy-link">Podcasts</a> 🎙 and I have a liking towards Photography also, so sharing that through my <a href="https://instagram.com/vishwasracharya">Instagram</a>.</p>
 <p>And when I feel low 🥱 or in a zone to do nothing then I listen to songs 🎶 and dance on them, just to get myself back on track.</p>
 
 ### My Experiences 🙌
+
 - [Full-Stack Engineer (Volansys Technologies (The ACL Digital Company))](https://volansys.com) - Professional Full-Stack Engineer.
 - [Jr Frontend Developer (Futureblink)](https://futureblink.com) - Contributed deeply into full-stack domain, developed number of tools and features.
 - [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - The first internship in tech domain.
