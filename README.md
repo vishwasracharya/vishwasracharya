@@ -28,7 +28,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
   <a href="https://stackoverflow.com/users/17306477/vishwas-acharya">
-  <img width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
   </a>
 <br/>
 <br/>
