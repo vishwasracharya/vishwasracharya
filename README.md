@@ -71,7 +71,7 @@
 ![img](https://img.shields.io/youtube/channel/views/UCAaleCudmPAqObY22TsRxng?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
 
 <hr>
-<p>If you Like my work or maybe you learned something from it and you want to support/contribute then here's the link.</p>
+<p>If you Like my work or maybe you learned something from it and you want to support/contribute then here's the link for it.</p>
 <a href='https://www.buymeacoffee.com/vishwasacharya' target='_blank'><img height='36' style='border:0px;width:100px;height:30px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Vishwas Acharya on buymecoffee' /></a>
 
 
