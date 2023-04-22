@@ -43,7 +43,7 @@
 
 ### My Experiences 🙌
 
-- [Full-Stack Engineer (Volansys Technologies (The ACL Digital Company))](https://volansys.com) - Professional Full-Stack Engineer.
+- [Full-Stack Engineer (Volansys Technologies (The ACL Digital Company))](https://volansys.com) - My work revolves around fulfilling customers' requirement/feature development and designing it and enhancing the overall performance and stability of a given project.
 - [Jr Frontend Developer (Futureblink)](https://futureblink.com) - Contributed deeply into full-stack domain, developed number of tools and features.
 - [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - The first internship in tech domain.
 - Video Editing - A Hobby developed & turned it into a skill with a <strong><em>1.5+ years</em></strong> of experience, by working with companies like [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org) and making vlogs & guides on [YouTube](https://youtube.com/c/VishwasAcharya) having <strong><em>14K+ views</em></strong>.
