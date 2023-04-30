@@ -1,5 +1,8 @@
 ## Hi there <img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/gif/Hi.gif" width="25">, I'm [Vishwas!](https://vishwasracharya.github.io/) 
 
+  <a href="https://medium.com/@vishwasacharya">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
+  </a>&ensp;
   <a href="https://twitter.com/vishwasracharya">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
