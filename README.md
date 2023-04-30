@@ -47,12 +47,12 @@
 
 ### My Experiences 🙌
 
-- [Full-Stack Engineer (Volansys Technologies (The ACL Digital Company))](https://volansys.com) - My work revolves around fulfilling customers' requirement/feature development and designing it and enhancing the overall performance and stability of a given project.
-- [Jr Frontend Developer (Futureblink)](https://futureblink.com) - Contributed deeply into full-stack domain, developed number of tools and features.
-- [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - The first internship in tech domain.
-- Video Editing - A Hobby developed & turned it into a skill with a <strong><em>1.5+ years</em></strong> of experience, by working with companies like [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org) and making vlogs & guides on [YouTube](https://youtube.com/c/VishwasAcharya) having <strong><em>14K+ views</em></strong>.
-- Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since Aug 2020 where I share my experience's and learning having <strong><em>2.1K+ plays</em></strong> from a diverse area of people.
-- [Blogging](https://vishwasracharya.github.io) with the similar concept like podcast, but in the form of written content. Also I started creating [Tech Blogs](https://vishwasacharya.hashnode.dev/) through Hashnode, which has <strong><em>1.1K+ Reads</em></strong>.
+- [Full-Stack Engineer (Volansys Technologies (The ACL Digital Company))](https://volansys.com) - My role involves meeting customer requirements and developing and designing features to improve project performance and stability.
+- [Jr Frontend Developer (Futureblink)](https://futureblink.com) - I have contributed significantly to the full-stack domain by developing various tools and features.
+- [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - This was my first internship in the tech industry.
+- Video Editing - Initially a hobby, I have developed video editing skills over the past <strong><em>1.5+ years</em></strong> and worked with companies such as [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org). I have also created vlogs and guides on [YouTube](https://youtube.com/c/VishwasAcharya) that have received over <strong><em>14K+ views</em></strong>.
+- Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since August 2020, where I share my experiences and learnings. The podcast has received over <strong><em>2.1K+ plays</em></strong> from a diverse range of listeners.
+- [Blogging](https://vishwasracharya.github.io) - I have a similar concept to my podcast, but in the form of written content. I also create [Tech Blogs](https://medium.com/@vishwasacharya) through Medium & Hashnode, which have received over <strong><em>1.1K+ Reads</em></strong>.
 
 ### Skills 🛠
 
