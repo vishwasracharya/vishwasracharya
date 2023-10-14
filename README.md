@@ -36,7 +36,7 @@
 <br/>
 <br/>
 <!-- <img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/Vishwas%20LinkedIn%20Banner%20-%20No%20Photo.png" /> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=vishwasracharya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=vishwasracharya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 
 ### About Me 🚀
 <p>Greetings. With regards to my academic background, I have attained a 🎓 Bachelor's degree in Information Technology Engineering from <a href="https://spec.edu.in">Sardar Patel College of Engineering</a>, located near Vallabh Vidhyanagar, my current place of residence. I relocated to this city during my 10th grade, prior to which I resided in Khambhat. Currently, I am employed as a Software Engineer at <a href="https://volansys.com/">@Volansys</a>.</p>
