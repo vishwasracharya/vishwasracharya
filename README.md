@@ -39,13 +39,13 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=vishwasracharya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 
 ### About Me 🚀
-<p>Embark on a journey to turn dreams into digital reality with me, your trusted Full Stack Developer extraordinaire. With a passion for crafting innovative solutions, I specialize in transforming concepts into tangible, high-performing products that leave a lasting impact.</p>
+<p>I am a dedicated Full Stack Developer with over 4+ years of experience in creating scalable cloud-driven solutions. With a solid computer science background, I excel in both frontend and backend development.</p>
 
-<p>Armed with a formidable arsenal of skills including JavaScript, React.js, Node.js, and more, I'm adept at breathing life into your visions. Whether it's designing sleek websites for businesses or engineering cutting-edge tech products, I bring a blend of creativity and technical prowess to every project.</p>
+<p>At Volansys Technologies, I lead the development of a live video surveillance solution, enhancing streaming playback by 80% and API performance by 75%. Previously, at FutureBlink, I increased sales by 40% and rapidly grew user adoption for new tools.</p>
 
-<p>I thrive on overseeing every facet of development, ensuring excellence from inception to execution. My commitment to meticulous attention to detail leaves no room for mediocrity, guaranteeing scalable, performant, and intuitive outcomes every time.</p>
+<p>I specialize in Angular, React, Node.js, .NET, and Python, with expertise in AWS, Azure, Docker, and Kubernetes. Passionate about delivering top-notch user experiences, I continuously explore new technologies to innovate and improve.</p>
 
-<p>Let's collaborate and unleash the power of technology to create something truly extraordinary. Your dream, my expertise—let's make magic happen! Connect with me on LinkedIn/Twitter or explore my work on GitHub.</p>
+<p>Let’s connect and discuss how we can collaborate on exciting projects!</p>
 
 ### My Experiences 🙌
 
