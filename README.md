@@ -56,6 +56,15 @@
 - Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since August 2020, where I share my experiences and learnings. The podcast has received over <strong><em>2.1K+ plays</em></strong> from a diverse range of listeners.
 - [Blogging](https://vishwasracharya.github.io) - I have a similar concept to my podcast, but in the form of written content. I also create [Tech Blogs](https://medium.com/@vishwasacharya) through Medium & Hashnode, which have received over <strong><em>1.1K+ Reads</em></strong>.
 
+### My Top Blogs
+[![How to Deploy Docker Containers on AWS](https://miro.medium.com/v2/resize:fit:400/format:webp/1*DoGn2kiS1zC6xkg66dn4Bw.png)](https://medium.com/@vishwasacharya/mastering-docker-container-deployment-on-aws-expert-tips-tricks-5b73b36296aa)
+
+[![VS Code vs VS Codium: Making the Right Choice](https://miro.medium.com/v2/resize:fit:400/format:webp/1*WMOMR8bbuX6-MCfB-uBkxQ.png)](https://medium.com/@vishwasacharya/vs-code-vs-vs-codium-making-the-right-choice-c5ab59d20645)
+
+[![Node.js Testing: Best Practices and Frameworks](https://miro.medium.com/v2/resize:fit:400/format:webp/1*cjPcFkCbDFXwxSkiFwiCyg.png)](https://medium.com/@vishwasacharya/node-js-testing-best-practices-and-frameworks-for-reliable-apps-656f1cc51426)
+
+[![Scaling Node.js Applications for High Traffic](https://miro.medium.com/v2/resize:fit:400/format:webp/1*8e4IN3_eAVuGEjy4H5rCZA.png)](https://medium.com/@vishwasacharya/scaling-node-js-applications-for-high-traffic-best-practices-da96b030d745)
+
 ### Skills 🛠
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
