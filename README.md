@@ -101,7 +101,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### Link: <a href="https://drive.google.com/file/d/1h8LL4DTeD_VTrMtxFthI9fRzkM9hcPza/view?usp=sharing" target="_blank">Resume</a> ✨
+### Link: <a href="https://drive.google.com/file/d/1NzrDJKtIqArLqaCfJvLdsyZQRHWtBKU5/view?usp=drive_link" target="_blank">Resume</a> ✨
 
 ### Stats 📈
 <p align="center">
