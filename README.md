@@ -1,124 +1,274 @@
-## Hi there, I'm [Vishwas!](https://vishwasracharya.github.io/) <img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/gif/Hi.gif" width="25">
+<!--
+  GitHub Profile README for github.com/vishwasracharya
+  Replace YOUR_EMAIL_HERE before publishing.
+-->
 
-  <a href="https://medium.com/@vishwasacharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
-  </a>&ensp;
-  <a href="https://twitter.com/vishwasracharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/vishwasracharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://vishwasracharya.github.io">
-    <img width="30px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/vishwasracharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://t.me/vishwasacharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a>&ensp;
-  <a href="https://vishwasacharya.blogspot.com">
-    <img width="30px" src="https://img.icons8.com/color/48/000000/blogger.png" />
-  </a>&ensp;
-  <a href="https://youtube.com/c/VishwasAcharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-  </a>&ensp;
-  <a href="https://snapchat.com/add/vishwasracharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/snapchat/snapchat-icon.svg" />
-  </a>&ensp;
-  <a href="https://facebook.com/vishwasracharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
-  </a>
-  <a href="https://stackoverflow.com/users/17306477/vishwas-acharya">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
-  </a>
-<br/>
-<br/>
-<!-- <img src="https://github.com/vishwasracharya/Personal-Assets/blob/main/Vishwas%20LinkedIn%20Banner%20-%20No%20Photo.png" /> -->
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=vishwasracharya&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
+<div align="center">
 
-### About Me 🚀
-<p>I am a dedicated Full Stack Developer with over 4+ years of experience in creating scalable cloud-driven solutions. With a solid computer science background, I excel in both frontend and backend development.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:1F6FEB,100:58A6FF&text=Vishwas%20Acharya&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Technical%20Lead%20%E2%80%A2%20Cloud%20Builder&descAlignY=60&animation=fadeIn" alt="Vishwas Acharya banner" />
 
-<p>At Volansys Technologies, I lead the development of a live video surveillance solution, enhancing streaming playback by 80% and API performance by 75%. Previously, at FutureBlink, I increased sales by 40% and rapidly grew user adoption for new tools.</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+cloud+platforms+beyond+the+happy+path;Designing+secure+and+scalable+Azure+solutions;Turning+production+incidents+into+better+systems;Leading+engineering+with+clarity+and+ownership" alt="Typing introduction" />
+</a>
 
-<p>I specialize in Angular, React, Node.js, .NET, and Python, with expertise in AWS, Azure, Docker, and Kubernetes. Passionate about delivering top-notch user experiences, I continuously explore new technologies to innovate and improve.</p>
-
-<p>Let’s connect and discuss how we can collaborate on exciting projects!</p>
-
-### My Experiences 🙌
-
-- [Full-Stack Senior Engineer (Volansys Technologies (The ACL Digital Company))](https://volansys.com) - My role involves meeting customer requirements and developing and designing features to improve project performance and stability.
-- [Frontend Developer (Futureblink)](https://futureblink.com) - I have contributed significantly to the full-stack domain by developing various tools and features.
-- [Web Developer (NMR Enterprise)](http://nmrenterprise.com) - This was my first internship in the tech industry.
-- Video Editing - Initially a hobby, I have developed video editing skills over the past <strong><em>1.5+ years</em></strong> and worked with companies such as [WorldmentMedia](http://worldmentmedia.com), [Curious Wings](https://curiouswings.ml), [IN-DEED Foundation](https://indeedfoundation.org). I have also created vlogs and guides on [YouTube](https://youtube.com/c/VishwasAcharya) that have received over <strong><em>28K+ views</em></strong>.
-- Podcast Host of [Vishwas Acharya Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr) since August 2020, where I share my experiences and learnings. The podcast has received over <strong><em>2.1K+ plays</em></strong> from a diverse range of listeners.
-- [Blogging](https://vishwasracharya.github.io) - I have a similar concept to my podcast, but in the form of written content. I also create [Tech Blogs](https://medium.com/@vishwasacharya) through Medium & Hashnode, which have received over <strong><em>1.1K+ Reads</em></strong>.
-
-### My Top Blogs
-[![How to Deploy Docker Containers on AWS](https://miro.medium.com/v2/resize:fit:400/format:webp/1*DoGn2kiS1zC6xkg66dn4Bw.png)](https://medium.com/@vishwasacharya/mastering-docker-container-deployment-on-aws-expert-tips-tricks-5b73b36296aa)
-
-[![VS Code vs VS Codium: Making the Right Choice](https://miro.medium.com/v2/resize:fit:400/format:webp/1*WMOMR8bbuX6-MCfB-uBkxQ.png)](https://medium.com/@vishwasacharya/vs-code-vs-vs-codium-making-the-right-choice-c5ab59d20645)
-
-[![Node.js Testing: Best Practices and Frameworks](https://miro.medium.com/v2/resize:fit:400/format:webp/1*cjPcFkCbDFXwxSkiFwiCyg.png)](https://medium.com/@vishwasacharya/node-js-testing-best-practices-and-frameworks-for-reliable-apps-656f1cc51426)
-
-[![Scaling Node.js Applications for High Traffic](https://miro.medium.com/v2/resize:fit:400/format:webp/1*8e4IN3_eAVuGEjy4H5rCZA.png)](https://medium.com/@vishwasacharya/scaling-node-js-applications-for-high-traffic-best-practices-da96b030d745)
-
-### Skills 🛠
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### Link: <a href="https://drive.google.com/file/d/1jYr74hSXK5tAJwplkoocPk1ZmzOazuOw/view?usp=sharing" target="_blank">Resume</a> ✨
-
-### Stats 📈
-<p align="center">
-<!-- <img width="48%" src="https://github-readme-stats.herokuapp.app/api?username=vishwasracharya&show_icons=true&hide_border=true&theme=tokyonight" alt="Vishwas's github stats" /> -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwasracharya&theme=tokyonight&hide_border=true" alt="Vishwas's github stats" />
-<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasracharya&hide_border=true&theme=tokyonight" alt="Vishwas's github strak stats" /> -->
-</p>
 <br/>
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasracharya) -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vishwasracharya.vishwasracharya)
-![twitter-follower](https://img.shields.io/twitter/follow/vishwasracharya?style=social) 
-![img](https://img.shields.io/youtube/channel/subscribers/UCAaleCudmPAqObY22TsRxng?label=YouTube%20Subscribers&style=social) 
-![img](https://img.shields.io/youtube/channel/views/UCAaleCudmPAqObY22TsRxng?label=Total%20views%20on%20my%20YouTube%20Channel&style=social) 
+<a href="https://vishwasracharya.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/vishwasracharya">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://medium.com/@vishwasacharya">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://stackoverflow.com/users/17306477/vishwas-acharya">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+</a>
 
-<hr>
-<p>If you Like my work or maybe you learned something from it and you want to support/contribute then here's the link for it.</p>
-<a href='https://www.buymeacoffee.com/vishwasacharya' target='_blank'><img height='36' style='border:0px;width:100px;height:30px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Vishwas Acharya on buymecoffee' /></a>
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=vishwasracharya&label=PROFILE+VIEWS&style=flat-square&color=1f6feb" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/vishwasracharya?label=FOLLOWERS&style=flat-square&color=1f6feb" alt="GitHub followers"/>
 
+</div>
+
+---
+
+## `whoami`
+
+```yaml
+name: Vishwas Acharya
+role: Full-Stack Engineer and Technical Lead
+focus:
+  - Cloud-native product engineering
+  - Scalable distributed systems
+  - Technical leadership and architecture
+  - Production reliability and observability
+core_stack:
+  - .NET and C#
+  - Angular and TypeScript
+  - Microsoft Azure
+  - SQL and Cosmos DB
+currently_exploring:
+  - AI engineering and agentic workflows
+  - Advanced system design
+  - Cloud security and platform architecture
+```
+
+I build and operate enterprise software where **scale, reliability, security, and real customer impact** matter.
+
+My work covers the full engineering lifecycle: converting ambiguous requirements into technical designs, developing frontend and backend systems, reviewing architecture, mentoring engineers, coordinating releases, and diagnosing production incidents across applications, databases, identity systems, cloud infrastructure, and live-video platforms.
+
+---
+
+## Impact at scale
+
+<div align="center">
+
+| `4+ YEARS` | `100K+ CAMERAS` | `2K+ TENANTS` | `1K+ DAILY USERS` |
+|:---:|:---:|:---:|:---:|
+| Product engineering | Platform scale | Multi-tenant systems | Production usage |
+
+</div>
+
+---
+
+## What I engineer
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   Product requirements  ──►  Architecture  ──►  Implementation   │
+│            │                                        │            │
+│            ▼                                        ▼            │
+│      Team alignment                          Observability        │
+│            │                                        │            │
+│            └──────────► Reliable delivery ◄─────────┘            │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+- **Cloud platforms:** Azure Functions, App Service, Storage, Key Vault, Service Bus, Application Insights, Azure SQL, and Cosmos DB
+- **Full-stack systems:** Angular applications, ASP.NET Core services, REST APIs, background workers, and event-driven workflows
+- **Identity and security:** Microsoft Entra ID, Okta, OAuth 2.0, OpenID Connect, JWT, RBAC, and managed identities
+- **Video technology:** RTSP, WebRTC, NVR and VMS integrations, camera platforms, playback workflows, and Wowza
+- **Engineering leadership:** solution design, code reviews, mentoring, sprint planning, cross-team coordination, and release ownership
+- **Production engineering:** performance analysis, incident investigation, tracing, logging, monitoring, and durable remediation
+
+---
+
+## Technology constellation
+
+<div align="center">
+
+### Core engineering
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,python,nodejs,html,css,sass&perline=10" alt="Core engineering skills"/>
+
+### Cloud, data, and delivery
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git,github,redis,mongodb,mysql,linux&perline=10" alt="Cloud data and delivery skills"/>
+
+</div>
+
+> Tools change. My real strength is understanding the system around them: its constraints, failure modes, users, and operational reality.
+
+---
+
+## Problems I enjoy solving
+
+<details>
+<summary><strong>Cloud-scale video surveillance</strong></summary>
+<br/>
+
+Engineering workflows for a multi-tenant surveillance platform supporting thousands of customers and approximately 100,000 cameras. This includes streaming, camera integrations, authentication, playback, performance, and production reliability.
+
+</details>
+
+<details>
+<summary><strong>Secretless Azure architecture</strong></summary>
+<br/>
+
+Replacing embedded credentials and connection strings with managed identities, role-based access, and Key Vault-backed configuration.
+
+</details>
+
+<details>
+<summary><strong>Event-driven automation</strong></summary>
+<br/>
+
+Building Azure Functions and background processing for telemetry ingestion, queue processing, storage lifecycle management, alerts, and system synchronization.
+
+</details>
+
+<details>
+<summary><strong>Production troubleshooting</strong></summary>
+<br/>
+
+Tracing failures across frontend code, APIs, databases, identity providers, infrastructure, and streaming systems—then addressing the root cause instead of applying temporary patches.
+
+</details>
+
+---
+
+## Engineering dashboard
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vishwasracharya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasracharya&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasracharya&layout=compact&hide_border=true&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasracharya&layout=compact&hide_border=true&langs_count=8" alt="Most used languages"/>
+</picture>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vishwasracharya&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishwasracharya&bg_color=00000000&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## Contribution trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=vishwasracharya&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## My contribution journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwasracharya/vishwasracharya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwasracharya/vishwasracharya/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/vishwasracharya/vishwasracharya/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> The snake appears after the included GitHub Actions workflow runs successfully for the first time.
+
+---
+
+## Writing from real engineering experience
+
+I write about engineering decisions, production failures, and lessons that are difficult to find in textbook examples.
+
+- [Managed Identity vs Connection Strings in Azure Functions](https://medium.com/@vishwasacharya)
+- [Why My Rehydrated Azure Blobs Were Automatically Archived Again](https://medium.com/@vishwasacharya)
+- [How to Deploy Docker Containers on AWS](https://medium.com/@vishwasacharya/mastering-docker-container-deployment-on-aws-expert-tips-tricks-5b73b36296aa)
+- [Scaling Node.js Applications for High Traffic](https://medium.com/@vishwasacharya/scaling-node-js-applications-for-high-traffic-best-practices-da96b030d745)
+
+<div align="center">
+
+<a href="https://medium.com/@vishwasacharya">
+  <img src="https://img.shields.io/badge/Read_my_engineering_stories-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read my Medium stories"/>
+</a>
+
+</div>
+
+---
+
+## Beyond engineering
+
+Technical leadership is not only about code. My background in writing, podcasting, video creation, and mentoring helps me explain complex ideas, understand different perspectives, and align people around practical decisions.
+
+<div align="center">
+
+<a href="https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr">
+  <img src="https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Podcast"/>
+</a>
+<a href="https://youtube.com/c/VishwasAcharya">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://vishwasracharya.github.io">
+  <img src="https://img.shields.io/badge/Personal_Blog-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal blog"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build systems that are useful, scalable, and reliable.
+
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Start_a_conversation-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishwas"/>
+</a>
+
+<br/><br/>
+
+**`Build clearly.`** &nbsp;•&nbsp; **`Operate reliably.`** &nbsp;•&nbsp; **`Keep learning.`**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,45:1F6FEB,100:58A6FF" alt="Footer"/>
+
+</div>
