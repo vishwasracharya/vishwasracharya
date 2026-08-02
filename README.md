@@ -223,7 +223,7 @@ Tracing failures across frontend code, APIs, databases, identity providers, infr
 I write about engineering decisions, production failures, and lessons that are difficult to find in textbook examples.
 
 - [Managed Identity vs Connection Strings in Azure Functions](https://medium.com/@vishwasacharya)
-- [Why My Rehydrated Azure Blobs Were Automatically Archived Again](https://medium.com/@vishwasacharya)
+- [Why My Rehydrated Azure Blobs Were Automatically Archived Again](https://medium.com/@vishwasacharya/why-my-rehydrated-azure-blobs-were-automatically-archived-again-3946338a861f)
 - [How to Deploy Docker Containers on AWS](https://medium.com/@vishwasacharya/mastering-docker-container-deployment-on-aws-expert-tips-tricks-5b73b36296aa)
 - [Scaling Node.js Applications for High Traffic](https://medium.com/@vishwasacharya/scaling-node-js-applications-for-high-traffic-best-practices-da96b030d745)
 
@@ -261,7 +261,7 @@ Technical leadership is not only about code. My background in writing, podcastin
 
 ### Let's build systems that are useful, scalable, and reliable.
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:vishwasracharya@gmail.com">
   <img src="https://img.shields.io/badge/Start_a_conversation-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishwas"/>
 </a>
 
